@@ -13,8 +13,8 @@ fItems.forEach( item => {
       }
     });
 
-    let del =item
-    item.remove()
+    //let del =item
+    //item.remove()
 
   });
 });
